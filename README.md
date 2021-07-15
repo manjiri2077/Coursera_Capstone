@@ -1,7 +1,7 @@
 # Coursera_Capstone
 
 ## Business Problem
-In this project, we will try to find an optimal location for opening a new GYM. The problem is targeted at stakeholders who want to start a gym in toronto,canada. We will try to detect locations that are not already crowded with gyms. We would also prefer locations as close to the city center as possible. We are interested to identify ideal locations in toronto for opening a gym as increasing number of people are becoming health consious and hence want to go to a gym which is not far from their houses. 
+In this project, we will try to find an optimal location for opening a new GYM in Sydney,Australia. The problem is targeted at stakeholders who want to start a gym in Sydney, Australia. We will try to detect locations that are not already crowded with gyms. We would also prefer locations as close to the city center as possible. We are interested to identify ideal locations in toronto for opening a gym as increasing number of people are becoming health consious and hence want to go to a gym which is not far from their houses. 
 
 ## Data Description
 The data that will be used in the project.
